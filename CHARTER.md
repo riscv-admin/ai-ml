@@ -9,7 +9,7 @@
 
 **Scope**
 
-* Evaluate the current support level for new emerging extensions such as the vector V, EDIV, and P extensions as well as support for data types popular im ML applications (BFloat16, int8, int4, ...etc).
+* Evaluate the current support level for new emerging extensions such as the vector V, Zvediv, and P extensions as well as support for data types popular im ML applications (BFloat16, int8, int4, ...etc).
 
 * Define the success metrics in terms of optimization coverage, functionality, energy, performance evaluation, and code size.
 
