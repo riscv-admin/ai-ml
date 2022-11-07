@@ -1,2 +1,2 @@
-# AI-ML-NLP
-AI-ML-NLP Task Group
+# AI-ML Special Interest Groiup
+AI-ML SIG
