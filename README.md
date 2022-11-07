@@ -1,2 +1,2 @@
-# AI-ML Special Interest Groiup
+# AI-ML Special Interest Group
 AI-ML SIG
