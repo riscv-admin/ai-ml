@@ -1,17 +1,27 @@
 # AI/ML SIG Charter
 
 **Goals**
+*
+* ISA for AI/ ML: Organizing global research, development and evaluation of RISC-V ISA extensions for AI/ML acceleration
 
-* Optimize a full software stack to support ML, AI and NLP applications for RISC-V architecture.
+* Optimize a full software stack especially graph compiler to translate ONNX graph models to RISC-V architecture to support portability of ML, AI and NLP applications.
 
-* Specify the benchmarks, performance metrics, and the evaluation methodology that will be used to track performance comparisons of optimized vs. current implementations and vs. other architectures such as ARM.
+* Specify the benchmarks, performance metrics, and the evaluation methodology that will be used to track performance comparisons of optimized vs. current implementations and vs. other popular architectures.
 
 * Propose software-hardware co-optimizations for better support of the target applications.
 
 
 **Scope**
+*
+* Evaluate the current support level for extensions such as the vector V, Zvediv, and P extensions and identify suitability for AI/ML workloads.
 
-* Evaluate the current support level for new emerging extensions such as the vector V, Zvediv, and P extensions as well as support for data types popular im ML applications (BFloat16, int8, int4, ...etc).
+* Define the current support for approximate computing data types popular im ML applications (bfloat16, fp16, fp8, int8, int4, ...etc) and explore bfloat8, fp4, etc.
+
+* Define matrix multiplication vector extensions (evaluate strassen's algorithm and other optimizations such as AI optimized multiplication).
+
+* Define spiking neural network model extensions - example LFI neuron model.
+
+* Evaluate if a software managed cache would benefit for prefetching and define appropriate cache model.
 
 * Define the success metrics in terms of optimization coverage, functionality, energy, performance evaluation, and code size.
 
