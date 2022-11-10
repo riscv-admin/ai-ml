@@ -1,7 +1,7 @@
 # AI/ML SIG Charter
 
 **Goals**
-*
+
 * ISA for AI/ ML: Organizing global research, development and evaluation of RISC-V ISA extensions for AI/ML acceleration
 
 * Optimize a full software stack especially graph compiler to translate ONNX graph models to RISC-V architecture to support portability of ML, AI and NLP applications.
@@ -12,7 +12,7 @@
 
 
 **Scope**
-*
+
 * Evaluate the current support level for extensions such as the vector V, Zvediv, and P extensions and identify suitability for AI/ML workloads.
 
 * Define the current support for approximate computing data types popular im ML applications (bfloat16, fp16, fp8, int8, int4, ...etc) and explore bfloat8, fp4, etc.
