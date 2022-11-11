@@ -23,9 +23,13 @@
 
 * Evaluate if a software managed cache would benefit for prefetching and define appropriate cache model.
 
+* Evaluate hardware accelerators and System-on-Chips based on RISC-V for efficient ML/DL computing.
+
 * Define the success metrics in terms of optimization coverage, functionality, energy, performance evaluation, and code size.
 
 * Arrange and coordinate efforts between developers from different entities willing to contribute to the optimization of the SW stack. 
+
+* Define application design automation framework and tools to accelerate the development and evaluation of deep learning models for RISC-V based systems.
 
 * Collaborate with the simulation infrastructure working group to get proper evaluation platforms (functional simulators & cycle-timing simulator). 
 
