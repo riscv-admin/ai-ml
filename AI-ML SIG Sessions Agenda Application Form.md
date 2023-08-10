@@ -3,8 +3,8 @@
 |**S/N**|**Who propose**|**Agenda**|**Email address**|**Session Date (Month/Day/Year)**|
 |1|Jing Qiu|A presentation by Jing Qiu on a RISC-V matrix extension proposal by T-Head|duojing.qj@alibaba-inc.com|3/22/2023, 10：00am UTC|
 |2| | | |7/12/2023, 10：00am UTC|
-|3|Suresh Sugumar|All of us to brainstorm RISC-V Summit preparation from this SIG|suresh.sugumar@gmail.com|7/26/2023, 10：00am UTC|
-|4| | | |8/9/2023, 10：00am UTC|
+|3||||7/26/2023, 10：00am UTC|
+|4| Suresh Sugumar|All of us to brainstorm RISC-V Summit preparation from this SIG |suresh.sugumar@gmail.com |8/9/2023, 10：00am UTC|
 |5| | | |8/23/2023, 10：00am UTC|
 |6| | | |9/6/2023, 10：00am UTC|
 |7| | | |9/20/2023, 10：00am UTC|
